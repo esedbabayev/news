@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "description": "A comprehensive guide to learning JavaScript from scratch.",
+      "cover_image": "https://example.com/images/js-intro-cover.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mastering React",
+      "description": "Deep dive into React for building dynamic user interfaces.",
+      "cover_image": "https://example.com/images/react-master-cover.jpg"
+    },
+    {
+      "id": 3,
+      "title": "CSS for Beginners",
+      "description": "Learn the fundamentals of CSS to style modern websites.",
+      "cover_image": "https://example.com/images/css-beginners-cover.jpg"
+    },
+    {
+      "id": 4,
+      "title": "TypeScript in Depth",
+      "description": "Advanced TypeScript concepts and best practices for large projects.",
+      "cover_image": "https://example.com/images/ts-depth-cover.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Web Development with Node.js",
+      "description": "Building server-side applications using Node.js and Express.",
+      "cover_image": "https://example.com/images/nodejs-webdev-cover.jpg"
+    }
+  ]
+}
